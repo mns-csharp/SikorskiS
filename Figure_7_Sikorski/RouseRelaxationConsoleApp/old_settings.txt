@@ -1,0 +1,9 @@
+﻿DataPath=C:\git\rouse_data~~
+OutputPath=.\..\..\..\..\
+ConvertYdataToLogY=false
+AutoCorrelationMin=0.00001
+AutoCorrelationMax=0.99999
+NumberOfLags=1000
+DataFileName=r_end_vec.dat
+#r2.dat
+#r_end_vec.dat

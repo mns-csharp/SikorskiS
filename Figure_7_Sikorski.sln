@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figure_7_Sikorski", "Figure_7_Sikorski\RouseRelaxationConsoleApp\Figure_7_Sikorski.csproj", "{3629D9A0-24E4-41CE-B701-B345FB056138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3629D9A0-24E4-41CE-B701-B345FB056138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3629D9A0-24E4-41CE-B701-B345FB056138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3629D9A0-24E4-41CE-B701-B345FB056138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3629D9A0-24E4-41CE-B701-B345FB056138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A8AC867-64A5-4B07-AFD9-51D7649F5C4E}
+	EndGlobalSection
+EndGlobal
